@@ -1,6 +1,6 @@
-zhidao-spring-boot-dependencies
+spring-boot-dependencies
 ============================================
-zhidao所有spring-boot工程的maven依赖包项目
+所有spring-boot工程的maven依赖包项目
 
 
 
